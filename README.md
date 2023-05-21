@@ -1,5 +1,5 @@
 # HooBank-ReactJs
-A front-end design for a bank website build using ReactJs x Tailwind CSS.
+A Front-end website for a Bank(HooBank) build using ReactJs x Tailwind CSS.
 
 ## Initialization of project
 This ReactJs project is created using Vite tool. [More about Vite](vitejs.dev)
